@@ -1,2 +1,1 @@
-# .github
-CS 272N Software Development • Fall 2024
+# CS 272N Fall 2024
